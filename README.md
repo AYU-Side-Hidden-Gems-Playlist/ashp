@@ -52,6 +52,11 @@ Back-End
 
 ## 🌳src구조
 ```
+📦 AYU-Side-Hidden-Gems-Playlist/front
+│  ├─  src
+└─ README.md
+```
+```
 📦 AYU-Side-Hidden-Gems-Playlist/back
 │  ├─  src
 │     ├─ main
